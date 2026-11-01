@@ -21,3 +21,4 @@ Rules:
 
 `polargrid/sw.js` and `polarboom/sw.js` retire the old installed web versions of
 PolarGrid and PolarBoom; keep them.
+`frangellboom/` exists only to retire the web version installed under PolarBoom's old name; keep it, and keep it out of `index.html`.
