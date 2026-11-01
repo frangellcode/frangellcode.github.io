@@ -9,6 +9,7 @@ One folder per app:
 | App | Folder | Pages |
 |---|---|---|
 | PolarGrid | `polargrid/` | `privacy.html`, `support.html` |
+| PolarBoom | `polarboom/` | `privacy.html`, `support.html` |
 
 Rules:
 
@@ -18,4 +19,5 @@ Rules:
   of these pages. Edit them here.
 - A new app: add its folder, a line in the table above and one in `index.html`.
 
-`polargrid/sw.js` retires the old installed web version of PolarGrid; keep it.
+`polargrid/sw.js` and `polarboom/sw.js` retire the old installed web versions of
+PolarGrid and PolarBoom; keep them.
